@@ -1,4 +1,31 @@
-.luke {
-    height: 200px;
-    width:400px;
+body{
+    background-color:lavender;
+}
+
+#bio{
+    font-variant:small-caps;
+    font-size:110%;
+}
+
+button{
+    text-align:center;
+    font-size:25pt;
+    border-radius:5px;
+    border-width:3px;
+    color:blue;
+    background:#DCDCDC;
+    font-variant:small-caps;
+    align-items:baseline;
+    font-weight:600;
+}
+.div1{
+    text-align:center;
+    width: 50%;
+    float: left;
+}
+
+.div2{
+    text-align:center;
+    width: 50%;
+    float: right;
 }

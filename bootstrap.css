@@ -239,6 +239,8 @@ label {
 
 button {
   border-radius: 0;
+  height: 200px;
+  width: 400px;
 }
 
 button:focus {
